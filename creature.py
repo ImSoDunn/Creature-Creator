@@ -178,6 +178,6 @@ while ((ch == 'y') or (ch =='Y')):
     #Clears the terminal to make output more legible.
     #os.system('cls||clear')
 
-#Prints when loop has terminated.
+#Prints when loop has terminated..
 print(text2art("\nThank you for participating in this experiment.\n", 'slammer'))
 quit()
